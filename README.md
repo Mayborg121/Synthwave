@@ -1,6 +1,4 @@
 
-Here’s a tailored GitHub README file for your entertainment website, **Synthwave**:
-
 ---
 
 # Synthwave Entertainment Website
